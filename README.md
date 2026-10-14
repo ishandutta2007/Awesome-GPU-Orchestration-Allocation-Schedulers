@@ -1,16 +1,25 @@
 # Awesome-GPU-Orchestration-Allocation-Schedulers
 
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-[![Tracked Projects](https://img.shields.io/badge/Tracked%20Platforms-SaaS%20%26%20Open%20Source-blue.svg)](https://github.com/ishandutta2007/Awesome-GPU-Orchestration-Allocation-Schedulers)
-[![Last Updated](https://img.shields.io/badge/Last%20Updated-October%202026-green.svg)](https://github.com/ishandutta2007/Awesome-GPU-Orchestration-Allocation-Schedulers)
+<p align="center">
+  <img src="assets/banner.svg" alt="Awesome GPU Orchestration &amp; Allocation Schedulers Banner" width="100%" />
+</p>
 
-## Top GPU Orchestration & Allocation Schedulers Ecosystem
+<p align="center">
+  <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a>
+  <a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+  <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome List" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-GPU-Orchestration-Allocation-Schedulers"><img src="https://img.shields.io/badge/Tracked%20Platforms-SaaS%20%26%20Open%20Source-blue.svg" alt="Tracked Platforms" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-GPU-Orchestration-Allocation-Schedulers"><img src="https://img.shields.io/badge/Last%20Updated-October%202026-green.svg" alt="Last Updated" /></a>
+  <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
+</p>
+
+## 🚀 Top GPU Orchestration & Allocation Schedulers Ecosystem
 
 **A Curated Directory of SaaS Platforms & Open-Source Projects for GPU Fractioning, AI Workload Scheduling, Dynamic Resource Allocation (DRA), and Cluster Utilization.**
 
 ---
 
-### Sector Overview & Market Dynamics
+### 🌐 Sector Overview & Market Dynamics
 
 The global AI GPU orchestration and workload management software market is estimated at **$4.04 billion in 2026** (growing at a ~28.3% CAGR), embedded within the broader **$75B+ AI infrastructure and GPUaaS market**. Market dynamics exhibit a distinct structural duality: while the underlying accelerator silicon and hyperscale compute layer remain **highly concentrated** (dominated by NVIDIA hardware and tier-1 hyperscalers), the orchestration, scheduling, and neocloud layer is **moderately fragmented and rapidly evolving**, with specialized independent clouds ("neoclouds") and Kubernetes-native open-source schedulers competing fiercely on cost efficiency, fractional slicing, gang scheduling, and sub-second scale-to-zero capabilities.
 
@@ -20,18 +29,20 @@ This repository tracks top-tier **SaaS platforms** and **open-source projects** 
 
 ---
 
-## Table of Contents
+## 📑 Table of Contents
 
-- [Sector Overview & Market Dynamics](#sector-overview--market-dynamics)
-- [SaaS & Hosted GPU Platforms](#saas--hosted-gpu-platforms)
-- [Open-Source GitHub Projects](#open-source-github-projects)
-- [Key Architectural Concepts](#key-architectural-concepts)
-- [How to Contribute](#how-to-contribute)
-- [Disclaimer](#disclaimer)
+- [🌐 Sector Overview & Market Dynamics](#-sector-overview--market-dynamics)
+- [☁️ SaaS & Hosted GPU Platforms](#️-saas--hosted-gpu-platforms)
+- [💻 Open-Source GitHub Projects](#-open-source-github-projects)
+- [🏗️ Key Architectural Concepts](#️-key-architectural-concepts)
+- [⭐ Star History](#-star-history)
+- [💖 Support & Community](#-support--community)
+- [🤝 How to Contribute](#-how-to-contribute)
+- [⚠️ Disclaimer](#️-disclaimer)
 
 ---
 
-## SaaS & Hosted GPU Platforms
+## ☁️ SaaS & Hosted GPU Platforms
 
 *Platforms are sorted in descending order by estimated market valuation / scale.*
 
@@ -49,7 +60,7 @@ This repository tracks top-tier **SaaS platforms** and **open-source projects** 
 
 ---
 
-## Open-Source GitHub Projects
+## 💻 Open-Source GitHub Projects
 
 *Production-grade open-source schedulers, Kubernetes operators, inference engines, and cluster managers. Sorted in descending order by GitHub Stars.*
 
@@ -78,7 +89,7 @@ This repository tracks top-tier **SaaS platforms** and **open-source projects** 
 
 ---
 
-## Key Architectural Concepts
+## 🏗️ Key Architectural Concepts
 
 Building or selecting an enterprise GPU scheduling architecture requires combining complementary layers:
 
@@ -90,19 +101,38 @@ Building or selecting an enterprise GPU scheduling architecture requires combini
 
 ---
 
-## How to Contribute
+## 🌟 Star History
 
-1. Fork this repository.
-2. Create a new branch: `git checkout -b add-gpu-tool`.
-3. Add the project or platform to the appropriate table matching the existing format:
-   - For SaaS products: include pricing details, free tier/trial limits, and scale/valuation.
-   - For Open-Source projects: include the official repo link, star badge (`style=social&color=white`), and functional description.
-4. Keep entries objective, verified, and linked to authoritative sources.
-5. Submit a pull request.
+[![Star History Chart](https://star-history.dera.page/svg?repos=ishandutta2007/Awesome-GPU-Orchestration-Allocation-Schedulers&type=date&legend=top-left)](https://star-history.dera.page/#ishandutta2007/Awesome-GPU-Orchestration-Allocation-Schedulers&type=date&legend=top-left)
 
 ---
 
-## Disclaimer
+## 💖 Support & Community
+
+Thank you for exploring this curated repository! If you find this resource valuable for your AI infrastructure, ML platform engineering, or GPU optimization initiatives, please consider supporting the project:
+
+- ⭐ **Star** this repository to keep up with the latest GPU scheduling tools and platform updates.
+- 🍴 **Fork** and contribute your own benchmarks, guides, and tools.
+- 📢 **Share** with fellow MLOps, DevOps, and AI infrastructure teams on Twitter/X, LinkedIn, and Discord.
+- ☕ **Buy a Coffee / Sponsor**: Support ongoing maintenance and curation via the [GitHub Sponsors Dashboard](https://github.com/sponsors/ishandutta2007).
+
+[![Sponsor ishandutta2007](https://img.shields.io/badge/Sponsor-%E2%99%A5-ea4aaa?style=for-the-badge&logo=github-sponsors&logoColor=white)](https://github.com/sponsors/ishandutta2007)
+
+---
+
+## 🤝 How to Contribute
+
+1. 🍴 Fork this repository.
+2. 🌿 Create a new branch: `git checkout -b add-gpu-tool`.
+3. 📝 Add the project or platform to the appropriate table matching the existing format:
+   - For SaaS products: include pricing details, free tier/trial limits, and scale/valuation.
+   - For Open-Source projects: include the official repo link, star badge (`style=social&color=white`), and functional description.
+4. ✅ Keep entries objective, verified, and linked to authoritative sources.
+5. 🚀 Submit a pull request.
+
+---
+
+## ⚠️ Disclaimer
 
 - This is a community-curated educational and technical resource; inclusion does not constitute endorsement.
 - All valuations, pricing rates, and free tier allowances are collected from published rate cards, filings, and industry sources as of October 2026 and may change.
@@ -110,4 +140,4 @@ Building or selecting an enterprise GPU scheduling architecture requires combini
 
 ---
 
-**Maintained for ML platform teams, AI infrastructure engineers, and systems architects building high-utilization GPU clusters.**
+**Maintained with ❤️ for ML platform teams, AI infrastructure engineers, and systems architects building high-utilization GPU clusters.**
