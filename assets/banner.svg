@@ -153,7 +153,7 @@
     <rect x="860" y="145" width="240" height="68" rx="10" fill="url(#card-glow)" stroke="#334155" stroke-width="1.5" />
     <rect x="874" y="159" width="30" height="30" rx="6" fill="#4338ca" />
     <text x="889" y="179" font-family="sans-serif" font-weight="900" font-size="16" fill="#a5b4fc" text-anchor="middle">⎈</text>
-    <text x="915" y="172" class="metric-label">Gang & DRA Scheduling</text>
+    <text x="915" y="172" class="metric-label">Gang &amp; DRA Scheduling</text>
     <text x="915" y="189" class="metric-val">Zero Preemption Deadlock</text>
   </g>
 
